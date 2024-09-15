@@ -25,6 +25,11 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import sandp from "./company/sandp.png"
+import university from "./company/uofc.png"
+import benevity from "./company/benevity.png"
+import atco from "./company/atco.png"
+import bre from "./company/bre.png"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -56,6 +61,11 @@ export {
   shopify,
   starbucks,
   tesla,
+  atco,
+  university,
+  sandp,
+  benevity,
+  bre,
   carrent,
   jobit,
   tripguide,

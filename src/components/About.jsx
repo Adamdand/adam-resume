@@ -47,11 +47,12 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+       I am a Full Stack Software Developer from Vancouver Canada with master's degree in 
+       software engineering and over 4 years of professional experience creating React applications 
+       using TypeScript, NodeJS, noSQL backends and Google Cloud Functions. 
+        My master’s program had a heavy machine learning component, involving training models, SQL and NoSQL 
+        data base creation and organization and of course Python coding.
+
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
