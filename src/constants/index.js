@@ -27,6 +27,9 @@ import {
     carrent,
     jobit,
     tripguide,
+    darryl,
+    lea,
+    richard
     // threejs,
   } from "../assets";
   
@@ -198,7 +201,7 @@ import {
       name: "Darryl Horton",
       designation: "Senior Delivery Manager",
       company: "ATCO ",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+      image: darryl,
     },
     {
       testimonial:
@@ -206,7 +209,7 @@ import {
       name: "Lea Elkaim",
       designation: "UX/UI Designer",
       company: "ATCO",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+      image: lea,
     },
     {
       testimonial:
@@ -214,7 +217,7 @@ import {
       name: "Richard Baker",
       designation: "President",
       company: "Res-Solve Solutions and BRE-Group",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+      image: richard,
     },
   ];
   

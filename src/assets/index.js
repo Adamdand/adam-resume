@@ -35,6 +35,10 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import richard from "./people/richard.png"
+import lea from "./people/lea.png"
+import darryl from "./people/darryl.png"
+
 export {
   // logo,
   backend,
@@ -69,4 +73,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  darryl,
+  lea,
+  richard
 };
