@@ -24,9 +24,9 @@ import {
     benevity,
     bre,
     sandp,
-    carrent,
-    jobit,
-    tripguide,
+    rumi,
+    ess,
+    biggfoot,
     darryl,
     lea,
     richard
@@ -223,67 +223,67 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Rumi",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "The Rumi project is a React project I worked heavily on for 3 years at ATC. It started off as a large buying and selling platform similar to Amazon, but has over time re-immagined itself as a service provider platform based on user's needs and interes.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "firebase",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "google cloud",
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: rumi,
+      source_code_link: "https://www.rumi.ca/",
     },
     {
-      name: "Job IT",
+      name: "Electrical Self Serve",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Web application that replaced a large call center, allowing customers to organize the repair or installation of their own electrical needs - mainly for farmers",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "noSQL",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "node.js",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: ess,
+      source_code_link: "https://ccmselfserve.atco.com/",
     },
     {
-      name: "Trip Guide",
+      name: "DnD Random Encounter App",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "A fun react application I use to test new technologies and ideas, includes React, Parallax Scrolling, Typescript, formik, API calls,",
       tags: [
         {
-          name: "nextjs",
+          name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "parralax scrolling",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "API calls",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: biggfoot,
+      source_code_link: "https://biggfootgames.com/",
     },
   ];
   

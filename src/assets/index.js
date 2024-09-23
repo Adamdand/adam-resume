@@ -4,8 +4,8 @@ import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
-// import menu from "./menu.svg";
-// import close from "./close.svg";
+import menu from "./menu.svg";
+import close from "./close.svg";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -19,7 +19,7 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-// import threejs from "./tech/threejs.svg";
+import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -31,9 +31,9 @@ import benevity from "./company/benevity.png"
 import atco from "./company/atco.png"
 import bre from "./company/bre.png"
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import biggfoot from "./biggfoot.png";
+import rumi from "./rumi.png";
+import ess from "./ess.png";
 
 import richard from "./people/richard.png"
 import lea from "./people/lea.png"
@@ -46,8 +46,8 @@ export {
   mobile,
   web,
   github,
-  // menu,
-  // close,
+  menu,
+  close,
   css,
   docker,
   figma,
@@ -70,9 +70,9 @@ export {
   sandp,
   benevity,
   bre,
-  carrent,
-  jobit,
-  tripguide,
+  biggfoot,
+  ess,
+  rumi,
   darryl,
   lea,
   richard

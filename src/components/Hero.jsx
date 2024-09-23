@@ -19,13 +19,13 @@ const Hero = () => {
             Hi, I'm <span className='text-[#915EFF]'>Adam</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            MEng Software Engineering <br className='sm:block hidden' />
-            over 5 years of Full Stack development and Machine Learning
+          <span className='text-[#915EFF]'>MEng Software Engineering</span> <br className='sm:block hidden' />
+            over 5 years of  <span className='text-[#915EFF]'>Full Stack</span> development and  <span className='text-[#915EFF]'>Machine Learning</span>
           </p>
         </div>
       </div>
 
-      {/* <ComputersCanvas />
+      <ComputersCanvas />
 
       <div className='absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center'>
         <a href='#about'>
@@ -43,7 +43,7 @@ const Hero = () => {
             />
           </div>
         </a>
-      </div> */}
+      </div>
     </section>
   );
 };
