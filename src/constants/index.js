@@ -186,7 +186,7 @@ import {
       iconBg: "#E6DEDD",
       date: "June 2018 - June 2020",
       points: [
-        "Worked in a fast-paced environment where everyone’s contributions were detrimental to the company’s success and the outcome of the machine learning tool.",
+        "Worked in a fast-paced environment where everyone’s contributions were instrumental to the company’s success and the outcome of the machine learning tool.",
         "Compiled and organized large quantities of data into a uniform style, then interpreted methods to increase oil recovery rates for various Calgary oil companies including CNRL and Crescent Point.",
         "Supplied companies with detailed and critical information that aided in million-dollar field acquisitions.",
         "Extensive use of Tableau and Power-BI for business presentations.",
