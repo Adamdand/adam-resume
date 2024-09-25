@@ -225,7 +225,7 @@ import {
     {
       name: "Rumi",
       description:
-        "The Rumi project is a React project I worked heavily on for 3 years at ATC. It started off as a large buying and selling platform similar to Amazon, but has over time re-immagined itself as a service provider platform based on user's needs and interes.",
+        "The Rumi project is a React project I worked heavily on for 3 years at ATCO. It started off as a large buying and selling platform similar to Amazon, but has over time re-immagined itself as a service provider platform based on user's needs and interes.",
       tags: [
         {
           name: "react",
