@@ -4,6 +4,7 @@ import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
+import visit from "./visit.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -20,6 +21,7 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import linkedin from "./linkedin.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -60,6 +62,8 @@ export {
   redux,
   tailwind,
   typescript,
+  visit,
+  linkedin,
   // threejs,
   meta,
   shopify,

@@ -134,8 +134,8 @@ import {
       date: "July 2021 - May 2024",
       points: [
         "Building ReactJS webpages using TypeScript, NPM and Yarn, NVM and GIT.",
-        "Creating frontends based on UI designs and connecting them to Firebase backends and NoSQL Databases using NodeJS and Google Cloud Functions. Communicating with QA team and customer to give time estimates and fix issues.",
-        "Utilizing Jira Board and Azure DevOps to organize work with other team members in an Agile environment.",
+        "Designed and created UI frontends, along with complementing connections to Firebase backends and NoSQL Databases using NodeJS and Google Cloud Functions. Coordinated communication with QA team members and customer stakeholders to determine development time-estimates and issue resolution.",
+        "Utilized Jira Board and Asure DevOps to coordinate work tasks with team members within an Agile environment.",
         "Took on special tasks such as creating and connecting Facebook and Google Analytics (GA4) and increasing SEO ratings by 30%.",
       ],
     },
@@ -146,10 +146,10 @@ import {
       iconBg: "#E6DEDD",
       date: "April 2021 - June 2021",
       points: [
-        "Creating and fine-tuning Inflow Performance Relationship (IPR) curve tools to predict fluid behaviour in reservoir.",
+        "Developed and refined an Inflow Performance Relationship (IPR) curve tool to predict fluid behavior within a petroleum-based reservoir.",
         "Analytic versus Numerical modeling using Harmony IPR software.",
         "Thorough testing of the new software logic, making sure it aligns with manual calculations and theory.",
-        "Identifying possible GUI improvements that might stumble users.",
+        "Identified potential GUI improvements that would help end-uses to avoid navigation stumbles.",
       ],
     },
     {
@@ -172,10 +172,10 @@ import {
         iconBg: "#E6DEDD",
         date: "June 2020 - June 2021",
         points: [
-          "Movie theater ticket purchasing and refund machine/GUI – MVC Java project.",
+          "Designed and developed a “movie theater purchase/refund ticket machine” GUI – MVC Java project.",
           "Tic-Tac-Toe with smart AI NPC – OOP using nodes and client-servers.",
           "Large Tool-Shop Java Program and GUI - Built a distributed inventory management system and MVC framework from scratch, used SQL for data storage and retrieval.",
-          "Machine learning ‘Titanic Competition’ – Kaggle competition using python",
+          "Machine learning ‘Titanic Competition’ – Kaggle competition using python.",
           "Deep-Learning ‘Plant Disease Recognition’ – Kaggle competition using python.",
         ],
       },

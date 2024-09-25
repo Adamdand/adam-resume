@@ -1,9 +1,8 @@
 import React from "react";
-import {Tilt} from "react-tilt";
+import { Tilt } from "react-tilt";
 import { motion } from "framer-motion";
-
+import { visit } from "../assets";
 import { styles } from "../styles";
-import { github } from "../assets";
 import { SectionWrapper } from "../hoc";
 import { projects } from "../constants";
 import { fadeIn, textVariant } from "../utils/motion";
@@ -33,15 +32,20 @@ const ProjectCard = ({
             className='w-full h-full object-cover rounded-2xl'
           />
 
-          <div className='absolute inset-0 flex justify-end m-3 card-img_hover'>
+          <div className='absolute inset-0 flex justify-end m-1 card-img_hover'>
             <div
               onClick={() => window.open(source_code_link, "_blank")}
-              className='black-gradient w-10 h-10 rounded-full flex justify-center items-center cursor-pointer'
+              className='black-gradient w-20 h-16 rounded-full flex flex-col justify-center items-center cursor-pointer'
             >
+              <p className='text-white font-bold text-[14px]'>Visit</p>
+
               <img
-                src={github}
-                alt='source code'
-                className='w-1/2 h-1/2 object-contain'
+                src={visit}
+                alt="arrow"
+                className="w-8 h-8 mt-0 object-contain"
+                style={{
+                  filter: 'invert(100%) brightness(100%) saturate(100%)'
+                }}
               />
             </div>
           </div>
@@ -80,9 +84,12 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
-          The following projects showcase my skills and experience through
-          real-world examples of my work.
-          These examples currently include some of my prevous work at ATCO where I worked for 3 years, however I had a leading hand in almost all components within each website. I also have a personal website that I have slowly been building on over the years to test new features and ideas.
+          The following showcase some of the real-world website projects I am proud to have worked on and they
+          demonstrate my commitment to excellence in software development. In these examples I have Included
+          examples from my work at ATCO, where I worked for 3 years. In addition are examples where I had a
+          leading hand in almost all components of development within each website. Lastly, I have include a
+          personal website that I have slowly been add to over time in order to test new programming
+          features and ideas.
         </motion.p>
       </div>
 
