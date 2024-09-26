@@ -181,7 +181,7 @@ import {
       },
     {
       title: "Data and Machine Learning Engineer",
-      company_name: "Res-Solve SOlutions Inc. and BRE-Group",
+      company_name: "Res-Solve Solutions Inc. and BRE-Group",
       icon: bre,
       iconBg: "#E6DEDD",
       date: "June 2018 - June 2020",
