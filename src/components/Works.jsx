@@ -86,9 +86,9 @@ const Works = () => {
         >
           The following showcase some of the real-world website projects I am proud to have worked on and they
           demonstrate my commitment to excellence in software development. In these examples I have Included
-          examples from my work at ATCO, where I worked for 3 years. In addition are examples where I had a
-          leading hand in almost all components of development within each website. Lastly, I have include a
-          personal website that I have slowly been add to over time in order to test new programming
+          examples from my work at ATCO, where I worked for 3 years. Within these exmaples I had a
+          leading hand in almost all components of development within each website. Lastly, I have included a
+          personal website that I have slowly been adding to over time in order to test new programming
           features and ideas.
         </motion.p>
       </div>
